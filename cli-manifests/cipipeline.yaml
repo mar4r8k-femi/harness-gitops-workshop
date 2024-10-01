@@ -1,7 +1,7 @@
 pipeline:
   name: cicd-gitops-pipeline
   identifier: cicdgitopspipeline
-  projectIdentifier: default_project
+  projectIdentifier: Femi_Awe
   orgIdentifier: default
   tags: {}
   properties:
@@ -57,7 +57,7 @@ pipeline:
       type: String
       description: ""
       required: false
-      value: DOCKER_USERNAME/harness-gitops-workshop
+      value: mar4r8kfemi/harness-gitops-workshop
     - name: imageTag
       type: String
       description: ""
