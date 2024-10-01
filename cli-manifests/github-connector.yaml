@@ -3,7 +3,7 @@ connector:
   identifier: githubconnector
   description: ""
   orgIdentifier: default
-  projectIdentifier: default_project
+  projectIdentifier: Femi_Awe
   type: Github
   spec:
     url: https://github.com/mar4r8k-femi/harness-gitops-workshop
