@@ -2,7 +2,7 @@ service:
   name: podinfoservice
   identifier: podinfoservice
   orgIdentifier: default
-  projectIdentifier: default_project
+  projectIdentifier: Femi_Awe
   serviceDefinition:
     spec:
       manifests:
