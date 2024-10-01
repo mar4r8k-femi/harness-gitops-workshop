@@ -5,6 +5,6 @@
     "name" : "gitopscluster",
     "namespace" : "dev"
   },
-  "asset_id" : "12345678",
-  "aws_account" : "654321"
+  "aws_account" : "654321",
+  "asset_id" : "mar4r8k-femi-9ad492e813faa26be35d105dd6d3007cd29acc9b"
 }
