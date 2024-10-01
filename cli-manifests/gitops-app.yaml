@@ -1,6 +1,6 @@
 gitops:
   name: gitops-application
-  projectIdentifier: default_project
+  projectIdentifier: Femi_Awe
   orgIdentifier: default
   type: application
   application:
@@ -11,7 +11,7 @@ gitops:
         harness.io/envRef: ""
     spec:
       source:
-        repoURL: https://github.com/GITHUB_USERNAME/harness-gitops-workshop
+        repoURL: https://github.com/mar4r8k-femi/harness-gitops-workshop
         path: configs/git-generator-files-discovery
         targetRevision: main
       destination:
