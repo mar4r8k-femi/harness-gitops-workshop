@@ -8,4 +8,4 @@ gitops:
     server: https://kubernetes.default.svc
     config:
       clusterConnectionType: IN_CLUSTER
-  agentIdentifier: AGENT_NAME
+  agentIdentifier: gitopsagent
